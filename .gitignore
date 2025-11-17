@@ -2,6 +2,9 @@
 index.local.html
 config.local.js
 
+# Documentation files (keep local, hide from GitHub)
+*.md
+
 # OS files
 .DS_Store
 Thumbs.db
